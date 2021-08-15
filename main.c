@@ -6,7 +6,7 @@
 /*   By: pwaters <pwaters@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/13 11:29:47 by pwaters           #+#    #+#             */
-/*   Updated: 2021/08/13 14:14:54 by pwaters          ###   ########.fr       */
+/*   Updated: 2021/08/13 14:21:36 by pwaters          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@ void	ft_putstr(char* str)
 		ft_putchar(str[i]);
 		i++;
 	}
-}
+}r8W4dnk7Hm%F
 
 int		main()
 {
